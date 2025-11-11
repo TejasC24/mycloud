@@ -1,0 +1,501 @@
+area_type,availability,location,size,society,total_sqft,bath,balcony,price
+Super built-up Area,Ready To Move,KR Puram,4 BHK,Theanmp,620.0,1.0,0.0,58.46
+Super built-up Area,Immediate Possession,Hebbal,2 BHK,Theanmp,3162.0,2.0,2.0,158.74
+Super built-up Area,19-Dec,JP Nagar,3 BHK,GreenVille,2851.0,5.0,0.0,112.76
+Built-up Area,Immediate Possession,Whitefield,2 BHK,LotusPark,2838.0,1.0,2.0,123.81
+Plot Area,Immediate Possession,Marathahalli,4 BHK,Theanmp,898.0,1.0,2.0,175.37
+Super built-up Area,New Launch,Marathahalli,1 BHK,GreenVille,2739.0,2.0,2.0,69.76
+Plot Area,New Launch,Kothanur,1 BHK,Theanmp,1726.0,1.0,2.0,51.22
+Built-up Area,Ready To Move,Electronic City Phase II,3 BHK,GreenVille,1109.0,5.0,1.0,170.24
+Plot Area,Ready To Move,Kothanur,1 BHK,Theanmp,1829.0,2.0,2.0,35.64
+Built-up Area,Ready To Move,Marathahalli,4 BHK,GreenVille,1527.0,5.0,1.0,137.93
+Super built-up Area,Immediate Possession,KR Puram,3 BHK,Soiewre,3556.0,3.0,1.0,20.3
+Plot Area,New Launch,Marathahalli,3 BHK,Soiewre,3390.0,1.0,0.0,50.04
+Built-up Area,Ready To Move,JP Nagar,2 BHK,LotusPark,1699.0,3.0,1.0,92.69
+Built-up Area,19-Dec,Marathahalli,1 BHK,Theanmp,3990.0,3.0,0.0,129.49
+Plot Area,19-Dec,KR Puram,2 BHK,nan,3311.0,4.0,2.0,115.34
+Built-up Area,New Launch,Hebbal,4 BHK,nan,1831.0,2.0,0.0,93.31
+Plot Area,Immediate Possession,Uttarahalli,2 BHK,LotusPark,2627.0,1.0,0.0,136.07
+Built-up Area,Immediate Possession,KR Puram,2 BHK,LotusPark,2429.0,5.0,2.0,179.6
+Plot Area,Immediate Possession,Uttarahalli,3 BHK,Theanmp,2096.0,2.0,1.0,41.55
+Built-up Area,19-Dec,Uttarahalli,4 BHK,Coomee,2763.0,5.0,2.0,56.53
+Plot Area,New Launch,Lingadheeranahalli,2 BHK,nan,3605.0,3.0,1.0,57.46
+Plot Area,Immediate Possession,Lingadheeranahalli,2 BHK,nan,1435.0,5.0,0.0,137.06
+Super built-up Area,New Launch,Hebbal,3 BHK,nan,1799.0,2.0,2.0,140.8
+Super built-up Area,Immediate Possession,Electronic City Phase II,3 BHK,Soiewre,3843.0,2.0,0.0,81.3
+Plot Area,Ready To Move,Chikka Tirupathi,2 BHK,nan,690.0,1.0,2.0,156.33
+Built-up Area,Ready To Move,Chikka Tirupathi,4 BHK,Theanmp,3757.0,4.0,2.0,57.66
+Built-up Area,Immediate Possession,Hebbal,3 BHK,Soiewre,3498.0,4.0,1.0,89.36
+Plot Area,Ready To Move,Hebbal,3 BHK,GreenVille,1506.0,1.0,1.0,30.18
+Built-up Area,New Launch,Hebbal,2 BHK,Coomee,3373.0,2.0,1.0,57.33
+Built-up Area,Immediate Possession,Whitefield,1 BHK,Coomee,1734.0,5.0,1.0,171.69
+Built-up Area,Immediate Possession,KR Puram,1 BHK,GreenVille,3358.0,4.0,0.0,28.2
+Super built-up Area,New Launch,KR Puram,4 BHK,Theanmp,649.0,1.0,1.0,38.27
+Super built-up Area,Ready To Move,Marathahalli,1 BHK,Coomee,1308.0,1.0,0.0,92.53
+Built-up Area,New Launch,Marathahalli,1 BHK,GreenVille,2177.0,5.0,0.0,184.77
+Super built-up Area,New Launch,Uttarahalli,4 BHK,LotusPark,820.0,5.0,2.0,46.19
+Plot Area,19-Dec,Marathahalli,2 BHK,LotusPark,1439.0,3.0,2.0,28.54
+Built-up Area,Ready To Move,Marathahalli,2 BHK,LotusPark,3796.0,4.0,2.0,151.72
+Super built-up Area,Immediate Possession,Electronic City Phase II,3 BHK,LotusPark,2428.0,5.0,1.0,69.34
+Super built-up Area,Ready To Move,Kothanur,3 BHK,GreenVille,2162.0,5.0,2.0,93.79
+Super built-up Area,19-Dec,Hebbal,4 BHK,LotusPark,3402.0,5.0,1.0,22.69
+Built-up Area,19-Dec,Uttarahalli,2 BHK,Soiewre,3258.0,2.0,0.0,116.64
+Super built-up Area,New Launch,Kothanur,3 BHK,Soiewre,1473.0,2.0,2.0,90.2
+Built-up Area,Immediate Possession,KR Puram,2 BHK,Soiewre,3248.0,3.0,1.0,186.92
+Built-up Area,Ready To Move,Whitefield,3 BHK,nan,3122.0,3.0,1.0,161.83
+Built-up Area,New Launch,Kothanur,2 BHK,LotusPark,1114.0,4.0,1.0,146.76
+Built-up Area,New Launch,Uttarahalli,3 BHK,Theanmp,1768.0,1.0,1.0,179.19
+Super built-up Area,19-Dec,JP Nagar,3 BHK,GreenVille,2179.0,1.0,0.0,83.15
+Built-up Area,Immediate Possession,Electronic City Phase II,3 BHK,LotusPark,1502.0,4.0,1.0,101.05
+Plot Area,19-Dec,KR Puram,2 BHK,Soiewre,726.0,5.0,0.0,160.68
+Built-up Area,19-Dec,Whitefield,2 BHK,LotusPark,1122.0,3.0,0.0,183.29
+Super built-up Area,New Launch,Whitefield,2 BHK,Coomee,3070.0,3.0,0.0,96.89
+Built-up Area,Immediate Possession,Chikka Tirupathi,3 BHK,Theanmp,2415.0,3.0,2.0,185.26
+Super built-up Area,Immediate Possession,Lingadheeranahalli,1 BHK,GreenVille,596.0,5.0,0.0,183.22
+Super built-up Area,New Launch,KR Puram,1 BHK,Soiewre,1074.0,1.0,1.0,27.59
+Plot Area,Ready To Move,KR Puram,4 BHK,GreenVille,3739.0,2.0,0.0,81.28
+Plot Area,New Launch,Electronic City Phase II,4 BHK,Soiewre,1333.0,2.0,2.0,156.55
+Super built-up Area,New Launch,Chikka Tirupathi,1 BHK,LotusPark,2688.0,4.0,1.0,118.48
+Super built-up Area,Immediate Possession,Electronic City Phase II,1 BHK,LotusPark,595.0,3.0,0.0,170.53
+Super built-up Area,Ready To Move,KR Puram,1 BHK,LotusPark,1626.0,4.0,1.0,100.63
+Plot Area,New Launch,JP Nagar,4 BHK,Coomee,2863.0,2.0,0.0,77.88
+Plot Area,New Launch,Hebbal,4 BHK,Theanmp,3950.0,3.0,0.0,146.07
+Super built-up Area,New Launch,Uttarahalli,4 BHK,GreenVille,1020.0,3.0,1.0,178.94
+Built-up Area,New Launch,Hebbal,1 BHK,LotusPark,714.0,5.0,1.0,24.32
+Plot Area,New Launch,Uttarahalli,1 BHK,LotusPark,2398.0,3.0,1.0,171.26
+Built-up Area,Ready To Move,Lingadheeranahalli,1 BHK,Coomee,779.0,3.0,0.0,80.4
+Super built-up Area,Ready To Move,Chikka Tirupathi,1 BHK,nan,1150.0,2.0,0.0,63.76
+Plot Area,Immediate Possession,Hebbal,3 BHK,LotusPark,1085.0,1.0,2.0,75.56
+Plot Area,New Launch,Uttarahalli,4 BHK,LotusPark,3531.0,4.0,2.0,113.07
+Plot Area,New Launch,JP Nagar,3 BHK,Soiewre,3907.0,2.0,1.0,100.91
+Plot Area,Immediate Possession,Marathahalli,3 BHK,Soiewre,1572.0,1.0,2.0,45.51
+Super built-up Area,Immediate Possession,Uttarahalli,1 BHK,Soiewre,3534.0,3.0,0.0,184.07
+Plot Area,New Launch,Whitefield,3 BHK,Theanmp,819.0,2.0,2.0,145.85
+Plot Area,New Launch,KR Puram,4 BHK,GreenVille,3874.0,3.0,1.0,22.5
+Plot Area,19-Dec,Chikka Tirupathi,1 BHK,Theanmp,1031.0,2.0,0.0,154.6
+Built-up Area,19-Dec,Marathahalli,2 BHK,Theanmp,2160.0,2.0,1.0,173.89
+Super built-up Area,New Launch,Uttarahalli,3 BHK,LotusPark,2755.0,3.0,0.0,77.04
+Plot Area,Ready To Move,Lingadheeranahalli,1 BHK,nan,1431.0,5.0,1.0,164.14
+Plot Area,19-Dec,Marathahalli,2 BHK,Theanmp,2352.0,3.0,2.0,174.83
+Plot Area,19-Dec,Electronic City Phase II,3 BHK,nan,1222.0,2.0,2.0,101.86
+Plot Area,Ready To Move,JP Nagar,4 BHK,Soiewre,3114.0,2.0,1.0,67.76
+Super built-up Area,Immediate Possession,JP Nagar,4 BHK,Soiewre,809.0,5.0,1.0,59.67
+Plot Area,Ready To Move,JP Nagar,2 BHK,Coomee,1387.0,4.0,1.0,113.4
+Plot Area,Ready To Move,Electronic City Phase II,3 BHK,Coomee,2158.0,4.0,2.0,102.85
+Built-up Area,Immediate Possession,Uttarahalli,4 BHK,Coomee,2903.0,5.0,0.0,39.43
+Super built-up Area,19-Dec,Marathahalli,2 BHK,Soiewre,3023.0,3.0,1.0,116.27
+Super built-up Area,Immediate Possession,KR Puram,4 BHK,Soiewre,3526.0,5.0,1.0,61.15
+Super built-up Area,Ready To Move,Kothanur,2 BHK,GreenVille,1075.0,3.0,0.0,161.19
+Built-up Area,19-Dec,KR Puram,2 BHK,Soiewre,1517.0,1.0,1.0,46.76
+Built-up Area,New Launch,KR Puram,2 BHK,GreenVille,3294.0,1.0,2.0,64.26
+Built-up Area,Immediate Possession,Electronic City Phase II,3 BHK,Soiewre,1858.0,5.0,0.0,119.4
+Plot Area,Immediate Possession,Kothanur,3 BHK,Coomee,618.0,5.0,1.0,114.56
+Plot Area,New Launch,Hebbal,2 BHK,LotusPark,3602.0,3.0,1.0,54.9
+Super built-up Area,New Launch,Uttarahalli,3 BHK,nan,2135.0,5.0,2.0,68.5
+Super built-up Area,Immediate Possession,Chikka Tirupathi,1 BHK,Theanmp,3774.0,2.0,0.0,27.1
+Super built-up Area,19-Dec,KR Puram,1 BHK,nan,3471.0,5.0,1.0,103.63
+Plot Area,19-Dec,Uttarahalli,3 BHK,Coomee,1131.0,5.0,0.0,28.4
+Plot Area,Immediate Possession,Whitefield,1 BHK,Coomee,3898.0,2.0,1.0,133.9
+Super built-up Area,Ready To Move,Electronic City Phase II,1 BHK,Soiewre,2099.0,2.0,1.0,60.1
+Plot Area,Immediate Possession,Kothanur,1 BHK,GreenVille,2145.0,3.0,1.0,187.51
+Plot Area,New Launch,Chikka Tirupathi,1 BHK,GreenVille,1971.0,5.0,0.0,132.34
+Plot Area,Ready To Move,Electronic City Phase II,3 BHK,Soiewre,2277.0,3.0,2.0,111.51
+Built-up Area,Ready To Move,Marathahalli,4 BHK,GreenVille,667.0,5.0,1.0,152.51
+Built-up Area,Immediate Possession,KR Puram,2 BHK,LotusPark,1665.0,1.0,2.0,66.29
+Built-up Area,Immediate Possession,Kothanur,3 BHK,Theanmp,1407.0,1.0,0.0,97.66
+Super built-up Area,Immediate Possession,Chikka Tirupathi,4 BHK,GreenVille,3419.0,3.0,1.0,152.16
+Built-up Area,New Launch,KR Puram,4 BHK,nan,1099.0,2.0,0.0,35.16
+Built-up Area,19-Dec,JP Nagar,1 BHK,Soiewre,2768.0,3.0,2.0,29.23
+Built-up Area,Immediate Possession,Marathahalli,2 BHK,Soiewre,1416.0,5.0,0.0,61.42
+Plot Area,Ready To Move,Uttarahalli,1 BHK,Coomee,3407.0,4.0,2.0,124.6
+Super built-up Area,Immediate Possession,Whitefield,2 BHK,Coomee,1359.0,4.0,0.0,194.53
+Built-up Area,Immediate Possession,KR Puram,2 BHK,nan,3092.0,5.0,0.0,143.84
+Super built-up Area,Ready To Move,Kothanur,4 BHK,Theanmp,715.0,5.0,1.0,103.5
+Plot Area,19-Dec,Electronic City Phase II,3 BHK,Soiewre,3636.0,5.0,2.0,158.02
+Plot Area,Immediate Possession,Marathahalli,2 BHK,Soiewre,3346.0,3.0,2.0,55.06
+Built-up Area,New Launch,JP Nagar,1 BHK,Soiewre,3590.0,5.0,2.0,113.5
+Built-up Area,New Launch,Hebbal,3 BHK,GreenVille,2228.0,5.0,1.0,196.62
+Built-up Area,Ready To Move,JP Nagar,2 BHK,LotusPark,2941.0,1.0,1.0,151.59
+Built-up Area,Ready To Move,Chikka Tirupathi,2 BHK,GreenVille,2932.0,3.0,2.0,144.99
+Super built-up Area,Ready To Move,Lingadheeranahalli,2 BHK,nan,3758.0,4.0,0.0,162.46
+Super built-up Area,Ready To Move,Whitefield,4 BHK,Soiewre,3915.0,1.0,1.0,89.29
+Super built-up Area,19-Dec,Kothanur,1 BHK,LotusPark,1580.0,4.0,2.0,61.88
+Plot Area,19-Dec,JP Nagar,4 BHK,LotusPark,916.0,2.0,1.0,49.25
+Built-up Area,Immediate Possession,Electronic City Phase II,2 BHK,nan,3490.0,4.0,1.0,87.21
+Plot Area,Immediate Possession,Hebbal,4 BHK,Soiewre,952.0,4.0,2.0,181.56
+Built-up Area,19-Dec,Chikka Tirupathi,1 BHK,LotusPark,2631.0,2.0,0.0,96.33
+Plot Area,New Launch,Electronic City Phase II,3 BHK,nan,2359.0,2.0,0.0,52.82
+Built-up Area,Immediate Possession,Lingadheeranahalli,4 BHK,LotusPark,2646.0,5.0,0.0,113.27
+Super built-up Area,Immediate Possession,Kothanur,1 BHK,GreenVille,1143.0,5.0,0.0,136.97
+Super built-up Area,Immediate Possession,Lingadheeranahalli,4 BHK,Soiewre,3353.0,2.0,2.0,82.32
+Super built-up Area,New Launch,Chikka Tirupathi,3 BHK,GreenVille,1559.0,3.0,0.0,173.31
+Built-up Area,New Launch,Uttarahalli,4 BHK,Coomee,2260.0,4.0,0.0,108.81
+Built-up Area,19-Dec,Whitefield,2 BHK,Soiewre,1629.0,1.0,2.0,138.64
+Plot Area,Ready To Move,Hebbal,2 BHK,GreenVille,3681.0,5.0,1.0,92.23
+Super built-up Area,New Launch,Whitefield,3 BHK,Coomee,1217.0,1.0,1.0,36.18
+Plot Area,New Launch,Kothanur,1 BHK,GreenVille,966.0,1.0,1.0,187.03
+Super built-up Area,Ready To Move,JP Nagar,3 BHK,GreenVille,742.0,1.0,1.0,78.14
+Plot Area,Immediate Possession,Uttarahalli,2 BHK,GreenVille,2434.0,3.0,2.0,92.01
+Plot Area,19-Dec,Marathahalli,2 BHK,nan,2201.0,2.0,0.0,198.92
+Built-up Area,New Launch,KR Puram,3 BHK,LotusPark,1692.0,1.0,0.0,91.07
+Super built-up Area,19-Dec,Uttarahalli,1 BHK,GreenVille,2989.0,4.0,2.0,186.4
+Plot Area,Immediate Possession,Lingadheeranahalli,4 BHK,Theanmp,1140.0,2.0,1.0,31.99
+Built-up Area,Ready To Move,JP Nagar,1 BHK,Soiewre,1245.0,2.0,1.0,176.48
+Super built-up Area,Immediate Possession,KR Puram,1 BHK,Theanmp,884.0,2.0,1.0,132.05
+Plot Area,New Launch,JP Nagar,2 BHK,Soiewre,3035.0,2.0,0.0,185.51
+Built-up Area,Immediate Possession,Marathahalli,3 BHK,Coomee,1998.0,5.0,0.0,20.05
+Built-up Area,New Launch,Chikka Tirupathi,1 BHK,Soiewre,3513.0,1.0,1.0,55.33
+Plot Area,New Launch,Marathahalli,4 BHK,nan,1169.0,4.0,0.0,23.86
+Super built-up Area,New Launch,KR Puram,4 BHK,Soiewre,2662.0,4.0,2.0,88.15
+Built-up Area,New Launch,KR Puram,3 BHK,LotusPark,1961.0,2.0,2.0,82.3
+Built-up Area,19-Dec,KR Puram,4 BHK,GreenVille,1175.0,2.0,0.0,151.59
+Built-up Area,New Launch,Chikka Tirupathi,2 BHK,LotusPark,2841.0,1.0,0.0,183.86
+Super built-up Area,New Launch,Lingadheeranahalli,4 BHK,Soiewre,2163.0,1.0,0.0,103.18
+Plot Area,Ready To Move,KR Puram,4 BHK,LotusPark,1004.0,4.0,0.0,48.38
+Plot Area,Immediate Possession,Marathahalli,3 BHK,Coomee,2413.0,1.0,2.0,175.06
+Super built-up Area,Immediate Possession,Hebbal,4 BHK,Soiewre,1856.0,1.0,1.0,58.95
+Super built-up Area,19-Dec,JP Nagar,1 BHK,nan,2094.0,2.0,2.0,178.78
+Super built-up Area,New Launch,Whitefield,1 BHK,LotusPark,718.0,4.0,0.0,118.8
+Plot Area,Immediate Possession,Uttarahalli,1 BHK,Coomee,3603.0,5.0,1.0,91.35
+Built-up Area,Ready To Move,Kothanur,3 BHK,Coomee,3763.0,1.0,1.0,43.63
+Super built-up Area,Ready To Move,Lingadheeranahalli,2 BHK,Theanmp,1967.0,3.0,1.0,193.43
+Super built-up Area,Ready To Move,Kothanur,1 BHK,Coomee,3582.0,1.0,2.0,51.99
+Super built-up Area,Immediate Possession,JP Nagar,3 BHK,Theanmp,583.0,4.0,0.0,133.91
+Built-up Area,Immediate Possession,Uttarahalli,4 BHK,LotusPark,2311.0,1.0,2.0,46.38
+Plot Area,19-Dec,Kothanur,4 BHK,Coomee,3263.0,3.0,0.0,84.84
+Built-up Area,19-Dec,KR Puram,4 BHK,Coomee,1053.0,5.0,2.0,137.8
+Built-up Area,Immediate Possession,Hebbal,3 BHK,Soiewre,660.0,2.0,2.0,35.8
+Super built-up Area,New Launch,Marathahalli,3 BHK,Coomee,2558.0,5.0,0.0,168.34
+Super built-up Area,New Launch,Electronic City Phase II,1 BHK,Soiewre,2627.0,5.0,2.0,52.11
+Plot Area,New Launch,Electronic City Phase II,2 BHK,LotusPark,3973.0,2.0,1.0,72.27
+Plot Area,New Launch,Whitefield,4 BHK,Soiewre,2417.0,5.0,1.0,103.46
+Built-up Area,New Launch,JP Nagar,1 BHK,Coomee,1252.0,1.0,2.0,192.31
+Built-up Area,Ready To Move,Electronic City Phase II,4 BHK,Coomee,3826.0,1.0,1.0,54.24
+Super built-up Area,19-Dec,Electronic City Phase II,4 BHK,Soiewre,2211.0,1.0,1.0,55.86
+Super built-up Area,19-Dec,Kothanur,4 BHK,GreenVille,3266.0,2.0,1.0,56.16
+Plot Area,Immediate Possession,Chikka Tirupathi,2 BHK,LotusPark,1289.0,5.0,2.0,175.94
+Super built-up Area,Ready To Move,Electronic City Phase II,1 BHK,nan,3752.0,3.0,1.0,76.66
+Super built-up Area,New Launch,Marathahalli,3 BHK,Soiewre,539.0,3.0,1.0,58.68
+Built-up Area,19-Dec,Lingadheeranahalli,1 BHK,nan,1422.0,4.0,1.0,40.32
+Super built-up Area,Immediate Possession,Chikka Tirupathi,3 BHK,GreenVille,1922.0,3.0,2.0,112.18
+Built-up Area,19-Dec,Whitefield,1 BHK,LotusPark,2200.0,3.0,1.0,22.91
+Plot Area,19-Dec,KR Puram,1 BHK,Coomee,1130.0,5.0,1.0,119.1
+Built-up Area,New Launch,KR Puram,3 BHK,LotusPark,1299.0,1.0,2.0,164.17
+Super built-up Area,Ready To Move,Hebbal,1 BHK,Theanmp,1817.0,1.0,1.0,184.09
+Plot Area,Immediate Possession,Lingadheeranahalli,3 BHK,Theanmp,3621.0,4.0,0.0,180.68
+Super built-up Area,19-Dec,Chikka Tirupathi,3 BHK,Soiewre,3675.0,5.0,2.0,110.98
+Built-up Area,New Launch,Uttarahalli,3 BHK,LotusPark,1413.0,2.0,1.0,25.56
+Built-up Area,New Launch,Lingadheeranahalli,3 BHK,GreenVille,3123.0,4.0,0.0,84.34
+Super built-up Area,Ready To Move,Chikka Tirupathi,3 BHK,GreenVille,3819.0,3.0,1.0,191.56
+Plot Area,New Launch,Lingadheeranahalli,2 BHK,GreenVille,3608.0,4.0,1.0,112.93
+Built-up Area,New Launch,Uttarahalli,1 BHK,GreenVille,2593.0,5.0,1.0,130.94
+Plot Area,Immediate Possession,Marathahalli,1 BHK,GreenVille,2267.0,3.0,1.0,164.71
+Built-up Area,Immediate Possession,KR Puram,4 BHK,Theanmp,2581.0,4.0,0.0,20.66
+Plot Area,New Launch,JP Nagar,2 BHK,LotusPark,1973.0,2.0,1.0,60.43
+Plot Area,New Launch,Electronic City Phase II,2 BHK,LotusPark,671.0,1.0,0.0,108.85
+Super built-up Area,New Launch,Electronic City Phase II,3 BHK,Theanmp,1679.0,2.0,1.0,149.14
+Super built-up Area,Immediate Possession,Marathahalli,1 BHK,LotusPark,1811.0,1.0,2.0,81.55
+Built-up Area,Immediate Possession,Chikka Tirupathi,2 BHK,Soiewre,1145.0,1.0,1.0,164.21
+Super built-up Area,19-Dec,Hebbal,1 BHK,nan,3292.0,1.0,0.0,168.65
+Built-up Area,Ready To Move,KR Puram,3 BHK,Theanmp,2493.0,4.0,2.0,111.08
+Plot Area,Ready To Move,Electronic City Phase II,2 BHK,nan,1278.0,3.0,0.0,112.95
+Super built-up Area,19-Dec,Electronic City Phase II,4 BHK,GreenVille,3772.0,1.0,1.0,69.74
+Plot Area,19-Dec,Marathahalli,3 BHK,Soiewre,2623.0,5.0,0.0,86.51
+Plot Area,Ready To Move,Whitefield,2 BHK,nan,2003.0,4.0,2.0,85.88
+Plot Area,New Launch,Kothanur,1 BHK,Theanmp,2900.0,4.0,2.0,93.07
+Super built-up Area,New Launch,Kothanur,3 BHK,Soiewre,1310.0,2.0,0.0,173.55
+Super built-up Area,19-Dec,Lingadheeranahalli,2 BHK,Theanmp,895.0,3.0,0.0,155.78
+Super built-up Area,19-Dec,Uttarahalli,2 BHK,Coomee,3108.0,3.0,2.0,96.32
+Built-up Area,19-Dec,Marathahalli,1 BHK,Theanmp,3594.0,2.0,2.0,122.18
+Plot Area,19-Dec,Electronic City Phase II,2 BHK,LotusPark,3667.0,1.0,2.0,172.16
+Built-up Area,19-Dec,KR Puram,1 BHK,nan,3943.0,4.0,0.0,192.11
+Plot Area,New Launch,Electronic City Phase II,1 BHK,Coomee,3693.0,4.0,0.0,97.52
+Built-up Area,Immediate Possession,Lingadheeranahalli,4 BHK,nan,2172.0,3.0,2.0,99.05
+Built-up Area,New Launch,KR Puram,2 BHK,LotusPark,684.0,4.0,0.0,106.61
+Built-up Area,New Launch,Whitefield,2 BHK,nan,1510.0,2.0,0.0,107.72
+Built-up Area,New Launch,Uttarahalli,3 BHK,nan,1192.0,4.0,1.0,49.27
+Built-up Area,Ready To Move,JP Nagar,3 BHK,LotusPark,3460.0,2.0,0.0,150.99
+Super built-up Area,Immediate Possession,JP Nagar,2 BHK,GreenVille,2211.0,2.0,1.0,124.85
+Super built-up Area,Ready To Move,KR Puram,2 BHK,Soiewre,1298.0,3.0,1.0,59.73
+Super built-up Area,New Launch,Marathahalli,4 BHK,Theanmp,2090.0,2.0,2.0,178.27
+Super built-up Area,Immediate Possession,Kothanur,2 BHK,nan,2957.0,2.0,0.0,117.03
+Super built-up Area,New Launch,Chikka Tirupathi,2 BHK,nan,2399.0,5.0,0.0,192.64
+Built-up Area,Immediate Possession,Lingadheeranahalli,2 BHK,Theanmp,593.0,3.0,0.0,136.08
+Plot Area,New Launch,Uttarahalli,3 BHK,nan,2695.0,5.0,1.0,38.95
+Super built-up Area,Immediate Possession,JP Nagar,3 BHK,Theanmp,2404.0,4.0,2.0,67.3
+Plot Area,New Launch,Uttarahalli,2 BHK,Coomee,3305.0,2.0,1.0,44.43
+Built-up Area,19-Dec,JP Nagar,1 BHK,Soiewre,3245.0,4.0,2.0,69.28
+Super built-up Area,19-Dec,Kothanur,2 BHK,Theanmp,3332.0,4.0,0.0,88.15
+Super built-up Area,19-Dec,Electronic City Phase II,4 BHK,nan,1389.0,5.0,0.0,126.43
+Plot Area,Immediate Possession,Kothanur,1 BHK,nan,3650.0,3.0,0.0,108.32
+Plot Area,Immediate Possession,JP Nagar,2 BHK,Soiewre,1426.0,2.0,2.0,58.47
+Plot Area,New Launch,Marathahalli,3 BHK,GreenVille,1956.0,4.0,1.0,162.69
+Super built-up Area,19-Dec,KR Puram,1 BHK,nan,3016.0,2.0,0.0,110.82
+Built-up Area,New Launch,Electronic City Phase II,3 BHK,nan,3028.0,5.0,0.0,103.52
+Super built-up Area,Immediate Possession,KR Puram,3 BHK,LotusPark,1279.0,1.0,1.0,150.83
+Built-up Area,Ready To Move,Electronic City Phase II,3 BHK,GreenVille,788.0,1.0,1.0,131.11
+Plot Area,Ready To Move,Kothanur,2 BHK,Coomee,3048.0,1.0,2.0,99.28
+Plot Area,19-Dec,Uttarahalli,4 BHK,Theanmp,3949.0,4.0,1.0,142.03
+Plot Area,Immediate Possession,Electronic City Phase II,2 BHK,Theanmp,733.0,5.0,0.0,106.42
+Super built-up Area,New Launch,Marathahalli,4 BHK,GreenVille,2305.0,1.0,0.0,67.74
+Built-up Area,New Launch,Uttarahalli,4 BHK,LotusPark,1670.0,1.0,2.0,133.18
+Built-up Area,Ready To Move,Electronic City Phase II,2 BHK,GreenVille,3416.0,4.0,0.0,130.59
+Plot Area,Immediate Possession,Marathahalli,3 BHK,Theanmp,1984.0,2.0,2.0,37.02
+Built-up Area,Ready To Move,Lingadheeranahalli,1 BHK,LotusPark,3229.0,4.0,0.0,104.84
+Super built-up Area,Immediate Possession,JP Nagar,4 BHK,nan,2222.0,1.0,0.0,110.52
+Plot Area,New Launch,KR Puram,2 BHK,Theanmp,1883.0,3.0,2.0,115.62
+Built-up Area,Immediate Possession,KR Puram,4 BHK,Coomee,2361.0,2.0,1.0,46.66
+Built-up Area,Immediate Possession,Chikka Tirupathi,2 BHK,Soiewre,749.0,4.0,0.0,115.38
+Plot Area,New Launch,Electronic City Phase II,2 BHK,Soiewre,1772.0,1.0,0.0,54.71
+Plot Area,Immediate Possession,Uttarahalli,2 BHK,nan,2999.0,5.0,1.0,103.19
+Super built-up Area,19-Dec,Electronic City Phase II,3 BHK,Coomee,1993.0,4.0,0.0,168.68
+Built-up Area,Immediate Possession,KR Puram,2 BHK,Theanmp,1812.0,2.0,0.0,34.01
+Plot Area,Immediate Possession,Hebbal,3 BHK,Soiewre,3354.0,3.0,1.0,187.47
+Plot Area,19-Dec,Whitefield,2 BHK,Soiewre,2272.0,1.0,1.0,114.94
+Super built-up Area,New Launch,JP Nagar,1 BHK,GreenVille,1505.0,4.0,1.0,189.81
+Built-up Area,New Launch,JP Nagar,4 BHK,Soiewre,3252.0,4.0,2.0,160.24
+Super built-up Area,Ready To Move,Electronic City Phase II,1 BHK,nan,626.0,5.0,1.0,124.54
+Built-up Area,Immediate Possession,Uttarahalli,1 BHK,GreenVille,2729.0,3.0,1.0,59.34
+Super built-up Area,Ready To Move,Marathahalli,2 BHK,LotusPark,3034.0,2.0,0.0,154.8
+Plot Area,Immediate Possession,Electronic City Phase II,1 BHK,LotusPark,1452.0,5.0,2.0,83.22
+Built-up Area,New Launch,Electronic City Phase II,2 BHK,nan,3796.0,4.0,2.0,111.41
+Super built-up Area,19-Dec,Chikka Tirupathi,2 BHK,GreenVille,905.0,5.0,0.0,88.31
+Built-up Area,19-Dec,Lingadheeranahalli,2 BHK,LotusPark,779.0,5.0,2.0,195.25
+Built-up Area,New Launch,Marathahalli,4 BHK,Soiewre,855.0,3.0,0.0,199.08
+Built-up Area,19-Dec,Marathahalli,4 BHK,LotusPark,3625.0,4.0,1.0,79.2
+Super built-up Area,Ready To Move,KR Puram,1 BHK,GreenVille,1714.0,1.0,1.0,185.29
+Built-up Area,Immediate Possession,Hebbal,1 BHK,Coomee,1150.0,3.0,1.0,63.06
+Built-up Area,Ready To Move,Uttarahalli,2 BHK,Coomee,3533.0,2.0,0.0,107.55
+Built-up Area,Immediate Possession,Hebbal,3 BHK,LotusPark,2957.0,5.0,0.0,193.3
+Super built-up Area,New Launch,Kothanur,2 BHK,Coomee,1154.0,5.0,2.0,137.92
+Built-up Area,New Launch,Electronic City Phase II,2 BHK,GreenVille,1113.0,4.0,2.0,21.53
+Plot Area,19-Dec,Kothanur,4 BHK,nan,1954.0,3.0,2.0,175.56
+Plot Area,Immediate Possession,Lingadheeranahalli,4 BHK,nan,2578.0,1.0,2.0,48.06
+Built-up Area,Ready To Move,Lingadheeranahalli,1 BHK,Theanmp,2992.0,3.0,2.0,172.61
+Built-up Area,19-Dec,Uttarahalli,3 BHK,LotusPark,1962.0,5.0,2.0,58.51
+Plot Area,19-Dec,KR Puram,2 BHK,Theanmp,3086.0,5.0,2.0,51.42
+Plot Area,19-Dec,Electronic City Phase II,1 BHK,nan,511.0,3.0,1.0,110.46
+Built-up Area,19-Dec,Whitefield,2 BHK,LotusPark,2886.0,2.0,2.0,133.13
+Super built-up Area,19-Dec,Chikka Tirupathi,3 BHK,Soiewre,1012.0,3.0,0.0,125.96
+Super built-up Area,Ready To Move,Whitefield,2 BHK,Soiewre,2028.0,3.0,1.0,68.97
+Plot Area,19-Dec,Whitefield,4 BHK,LotusPark,3965.0,3.0,0.0,48.57
+Built-up Area,Immediate Possession,Whitefield,3 BHK,LotusPark,1372.0,1.0,1.0,89.53
+Built-up Area,Ready To Move,Hebbal,4 BHK,Coomee,726.0,5.0,1.0,126.7
+Plot Area,19-Dec,Uttarahalli,2 BHK,Theanmp,1228.0,3.0,0.0,146.82
+Plot Area,19-Dec,KR Puram,2 BHK,nan,2399.0,3.0,1.0,55.22
+Plot Area,19-Dec,Electronic City Phase II,2 BHK,Soiewre,2973.0,3.0,0.0,193.88
+Built-up Area,Immediate Possession,Electronic City Phase II,3 BHK,GreenVille,2949.0,2.0,2.0,42.38
+Built-up Area,19-Dec,Uttarahalli,2 BHK,Theanmp,2071.0,1.0,2.0,24.29
+Plot Area,Ready To Move,Hebbal,3 BHK,Coomee,2864.0,1.0,2.0,130.16
+Plot Area,New Launch,Electronic City Phase II,2 BHK,Coomee,1166.0,4.0,2.0,77.44
+Super built-up Area,Immediate Possession,Marathahalli,1 BHK,LotusPark,1960.0,4.0,0.0,82.39
+Super built-up Area,Immediate Possession,Chikka Tirupathi,3 BHK,nan,1150.0,3.0,2.0,162.95
+Built-up Area,Ready To Move,KR Puram,4 BHK,Soiewre,668.0,5.0,2.0,197.3
+Plot Area,New Launch,JP Nagar,2 BHK,GreenVille,2728.0,1.0,2.0,105.82
+Plot Area,Ready To Move,Kothanur,2 BHK,LotusPark,3191.0,3.0,2.0,75.03
+Super built-up Area,Ready To Move,Electronic City Phase II,3 BHK,Coomee,577.0,3.0,2.0,96.87
+Plot Area,Ready To Move,Electronic City Phase II,3 BHK,Theanmp,3672.0,1.0,1.0,182.5
+Super built-up Area,Immediate Possession,Chikka Tirupathi,3 BHK,Coomee,3255.0,1.0,2.0,88.05
+Plot Area,New Launch,Kothanur,4 BHK,GreenVille,2711.0,4.0,1.0,54.64
+Plot Area,Immediate Possession,Marathahalli,1 BHK,Theanmp,3327.0,2.0,2.0,96.61
+Built-up Area,New Launch,JP Nagar,4 BHK,GreenVille,2719.0,3.0,1.0,190.31
+Built-up Area,Immediate Possession,Whitefield,2 BHK,Coomee,1722.0,3.0,2.0,90.57
+Plot Area,Immediate Possession,Uttarahalli,2 BHK,Soiewre,1909.0,3.0,0.0,119.04
+Built-up Area,Immediate Possession,Whitefield,4 BHK,GreenVille,1483.0,3.0,1.0,136.4
+Plot Area,19-Dec,Marathahalli,1 BHK,Soiewre,550.0,4.0,2.0,118.73
+Super built-up Area,Ready To Move,Hebbal,2 BHK,Theanmp,3822.0,3.0,1.0,133.9
+Plot Area,Immediate Possession,JP Nagar,1 BHK,nan,869.0,5.0,2.0,187.28
+Plot Area,Ready To Move,Kothanur,1 BHK,LotusPark,2834.0,4.0,2.0,22.46
+Super built-up Area,Ready To Move,Kothanur,3 BHK,Coomee,1231.0,1.0,0.0,101.72
+Plot Area,19-Dec,Uttarahalli,4 BHK,LotusPark,2414.0,2.0,1.0,68.97
+Plot Area,New Launch,KR Puram,3 BHK,Coomee,3919.0,4.0,2.0,91.07
+Super built-up Area,Ready To Move,Kothanur,3 BHK,nan,1977.0,2.0,0.0,31.14
+Plot Area,19-Dec,Kothanur,4 BHK,nan,1821.0,5.0,2.0,81.73
+Super built-up Area,Ready To Move,Electronic City Phase II,1 BHK,Theanmp,3444.0,3.0,1.0,168.38
+Built-up Area,Immediate Possession,Uttarahalli,1 BHK,Soiewre,805.0,1.0,2.0,69.31
+Super built-up Area,New Launch,Electronic City Phase II,3 BHK,Theanmp,576.0,4.0,0.0,38.02
+Plot Area,Ready To Move,Uttarahalli,1 BHK,Soiewre,3215.0,5.0,1.0,76.19
+Plot Area,Immediate Possession,Electronic City Phase II,4 BHK,GreenVille,3926.0,3.0,2.0,124.83
+Super built-up Area,Immediate Possession,Lingadheeranahalli,3 BHK,Coomee,1994.0,2.0,1.0,109.15
+Super built-up Area,New Launch,Electronic City Phase II,4 BHK,LotusPark,1511.0,4.0,1.0,128.73
+Super built-up Area,Immediate Possession,Lingadheeranahalli,2 BHK,LotusPark,645.0,1.0,2.0,67.99
+Built-up Area,New Launch,Chikka Tirupathi,4 BHK,nan,1363.0,2.0,0.0,68.7
+Built-up Area,19-Dec,Hebbal,2 BHK,nan,1059.0,5.0,0.0,112.59
+Built-up Area,Ready To Move,JP Nagar,4 BHK,Coomee,1379.0,5.0,2.0,153.86
+Built-up Area,Immediate Possession,Uttarahalli,1 BHK,Theanmp,3039.0,2.0,2.0,94.98
+Built-up Area,Ready To Move,Lingadheeranahalli,1 BHK,nan,3734.0,2.0,1.0,75.65
+Built-up Area,Ready To Move,Electronic City Phase II,3 BHK,Soiewre,3620.0,3.0,1.0,141.67
+Super built-up Area,19-Dec,Whitefield,4 BHK,GreenVille,679.0,5.0,1.0,142.83
+Super built-up Area,19-Dec,Marathahalli,2 BHK,nan,3305.0,2.0,2.0,49.28
+Super built-up Area,19-Dec,JP Nagar,2 BHK,nan,3594.0,4.0,1.0,156.6
+Plot Area,Ready To Move,KR Puram,3 BHK,Theanmp,1794.0,4.0,1.0,54.63
+Super built-up Area,Immediate Possession,Marathahalli,3 BHK,nan,1300.0,1.0,0.0,93.87
+Plot Area,19-Dec,Uttarahalli,1 BHK,Theanmp,3714.0,1.0,2.0,154.08
+Plot Area,New Launch,Kothanur,2 BHK,Coomee,3177.0,2.0,1.0,91.97
+Super built-up Area,Immediate Possession,Kothanur,1 BHK,nan,609.0,3.0,1.0,49.27
+Super built-up Area,New Launch,Whitefield,1 BHK,nan,3917.0,4.0,1.0,32.82
+Plot Area,19-Dec,Whitefield,1 BHK,nan,1433.0,2.0,1.0,117.65
+Built-up Area,Immediate Possession,JP Nagar,1 BHK,GreenVille,2695.0,2.0,1.0,94.13
+Plot Area,19-Dec,Kothanur,1 BHK,nan,1340.0,1.0,1.0,66.31
+Built-up Area,New Launch,Whitefield,2 BHK,GreenVille,1385.0,3.0,1.0,24.65
+Super built-up Area,19-Dec,Hebbal,2 BHK,GreenVille,3231.0,5.0,0.0,53.7
+Super built-up Area,New Launch,JP Nagar,4 BHK,nan,3265.0,4.0,1.0,73.99
+Plot Area,Immediate Possession,Electronic City Phase II,4 BHK,Soiewre,931.0,2.0,1.0,55.74
+Super built-up Area,New Launch,Whitefield,1 BHK,Theanmp,844.0,5.0,0.0,44.03
+Super built-up Area,Ready To Move,Whitefield,4 BHK,Coomee,2098.0,4.0,0.0,179.15
+Super built-up Area,New Launch,Electronic City Phase II,2 BHK,nan,2692.0,4.0,1.0,143.67
+Built-up Area,Immediate Possession,JP Nagar,2 BHK,LotusPark,3640.0,4.0,2.0,37.2
+Super built-up Area,Immediate Possession,KR Puram,2 BHK,Theanmp,3757.0,3.0,2.0,157.28
+Built-up Area,Ready To Move,Hebbal,3 BHK,Theanmp,771.0,1.0,2.0,85.75
+Built-up Area,Immediate Possession,Marathahalli,4 BHK,Theanmp,3520.0,1.0,0.0,23.44
+Plot Area,New Launch,Whitefield,4 BHK,Soiewre,3233.0,1.0,1.0,130.53
+Super built-up Area,19-Dec,Whitefield,3 BHK,GreenVille,2844.0,1.0,2.0,113.86
+Plot Area,Ready To Move,Lingadheeranahalli,2 BHK,GreenVille,1095.0,1.0,1.0,154.66
+Plot Area,Immediate Possession,Marathahalli,3 BHK,nan,1103.0,1.0,0.0,139.54
+Plot Area,Immediate Possession,Marathahalli,1 BHK,Theanmp,3903.0,2.0,1.0,175.71
+Built-up Area,Ready To Move,Whitefield,3 BHK,Coomee,1649.0,1.0,2.0,70.54
+Plot Area,New Launch,Electronic City Phase II,2 BHK,LotusPark,2207.0,4.0,2.0,59.56
+Super built-up Area,New Launch,Electronic City Phase II,3 BHK,Soiewre,3765.0,4.0,2.0,176.06
+Super built-up Area,Ready To Move,Uttarahalli,2 BHK,nan,2137.0,2.0,0.0,122.78
+Built-up Area,19-Dec,Electronic City Phase II,3 BHK,Soiewre,3225.0,2.0,2.0,35.11
+Plot Area,Immediate Possession,Chikka Tirupathi,4 BHK,Theanmp,1833.0,1.0,0.0,113.9
+Super built-up Area,Immediate Possession,JP Nagar,1 BHK,Theanmp,3412.0,3.0,0.0,164.62
+Plot Area,19-Dec,Marathahalli,2 BHK,LotusPark,2363.0,3.0,1.0,98.14
+Super built-up Area,Immediate Possession,Hebbal,4 BHK,LotusPark,3851.0,2.0,0.0,178.87
+Plot Area,Immediate Possession,Kothanur,1 BHK,Coomee,1475.0,1.0,0.0,151.52
+Plot Area,Ready To Move,JP Nagar,3 BHK,nan,2725.0,4.0,1.0,43.47
+Plot Area,Ready To Move,Hebbal,1 BHK,Theanmp,1435.0,3.0,0.0,129.3
+Super built-up Area,New Launch,Electronic City Phase II,1 BHK,LotusPark,517.0,2.0,1.0,61.27
+Built-up Area,New Launch,KR Puram,4 BHK,Coomee,3734.0,4.0,0.0,184.6
+Built-up Area,Immediate Possession,Hebbal,1 BHK,Soiewre,2350.0,5.0,0.0,81.37
+Plot Area,Immediate Possession,Electronic City Phase II,4 BHK,nan,2471.0,3.0,2.0,63.02
+Plot Area,New Launch,Whitefield,2 BHK,Theanmp,3109.0,2.0,0.0,29.41
+Super built-up Area,Immediate Possession,Electronic City Phase II,4 BHK,GreenVille,2975.0,4.0,0.0,69.77
+Super built-up Area,19-Dec,Uttarahalli,1 BHK,LotusPark,3864.0,2.0,0.0,52.37
+Built-up Area,19-Dec,Marathahalli,1 BHK,LotusPark,2704.0,1.0,0.0,69.01
+Plot Area,Immediate Possession,Uttarahalli,1 BHK,nan,1449.0,5.0,2.0,23.24
+Built-up Area,Immediate Possession,Uttarahalli,3 BHK,Theanmp,3186.0,3.0,1.0,138.58
+Plot Area,Immediate Possession,Hebbal,2 BHK,GreenVille,870.0,2.0,2.0,86.36
+Plot Area,New Launch,Chikka Tirupathi,4 BHK,Coomee,2102.0,3.0,0.0,183.26
+Built-up Area,19-Dec,Lingadheeranahalli,2 BHK,Theanmp,1974.0,5.0,0.0,55.29
+Built-up Area,New Launch,Whitefield,1 BHK,Soiewre,2205.0,2.0,2.0,166.25
+Super built-up Area,19-Dec,Chikka Tirupathi,1 BHK,Coomee,883.0,4.0,2.0,39.22
+Built-up Area,New Launch,Electronic City Phase II,2 BHK,nan,555.0,3.0,2.0,46.38
+Plot Area,Immediate Possession,Uttarahalli,2 BHK,nan,3925.0,3.0,2.0,110.14
+Built-up Area,Ready To Move,Whitefield,4 BHK,LotusPark,846.0,5.0,1.0,177.61
+Super built-up Area,New Launch,Whitefield,2 BHK,Theanmp,2894.0,2.0,1.0,70.59
+Super built-up Area,New Launch,Uttarahalli,2 BHK,nan,3625.0,3.0,0.0,128.41
+Plot Area,Ready To Move,JP Nagar,2 BHK,GreenVille,1541.0,1.0,0.0,29.12
+Plot Area,Ready To Move,Whitefield,3 BHK,GreenVille,2467.0,3.0,0.0,40.19
+Plot Area,Ready To Move,Marathahalli,1 BHK,LotusPark,1425.0,1.0,1.0,119.06
+Plot Area,Ready To Move,KR Puram,2 BHK,Coomee,883.0,3.0,1.0,29.68
+Plot Area,New Launch,KR Puram,3 BHK,Soiewre,2212.0,5.0,0.0,177.75
+Super built-up Area,New Launch,JP Nagar,2 BHK,Coomee,3110.0,5.0,0.0,27.58
+Built-up Area,19-Dec,JP Nagar,2 BHK,LotusPark,3982.0,3.0,0.0,99.68
+Super built-up Area,Ready To Move,Hebbal,3 BHK,Soiewre,3640.0,4.0,2.0,134.79
+Plot Area,Immediate Possession,Hebbal,2 BHK,GreenVille,3574.0,1.0,1.0,74.52
+Plot Area,Ready To Move,Uttarahalli,4 BHK,Coomee,991.0,4.0,2.0,143.71
+Super built-up Area,Ready To Move,Lingadheeranahalli,1 BHK,Soiewre,3960.0,3.0,1.0,41.54
+Plot Area,Immediate Possession,Chikka Tirupathi,4 BHK,nan,3587.0,5.0,0.0,139.34
+Built-up Area,19-Dec,Uttarahalli,1 BHK,Soiewre,3477.0,5.0,2.0,168.0
+Super built-up Area,19-Dec,Chikka Tirupathi,2 BHK,Coomee,3416.0,5.0,0.0,57.5
+Built-up Area,Ready To Move,Uttarahalli,4 BHK,LotusPark,514.0,2.0,0.0,74.58
+Super built-up Area,New Launch,Uttarahalli,4 BHK,Coomee,1019.0,2.0,2.0,177.27
+Super built-up Area,19-Dec,Chikka Tirupathi,2 BHK,LotusPark,599.0,2.0,2.0,101.86
+Plot Area,Immediate Possession,Marathahalli,3 BHK,nan,2792.0,1.0,2.0,43.02
+Plot Area,New Launch,Hebbal,4 BHK,nan,1244.0,4.0,2.0,119.18
+Built-up Area,Ready To Move,JP Nagar,4 BHK,Coomee,2216.0,3.0,0.0,147.38
+Plot Area,New Launch,Lingadheeranahalli,1 BHK,Soiewre,1447.0,1.0,1.0,96.64
+Super built-up Area,Immediate Possession,KR Puram,1 BHK,nan,3743.0,4.0,1.0,118.14
+Built-up Area,New Launch,Whitefield,3 BHK,Soiewre,3798.0,3.0,0.0,30.47
+Built-up Area,19-Dec,Marathahalli,4 BHK,GreenVille,1748.0,2.0,2.0,93.66
+Built-up Area,Ready To Move,Chikka Tirupathi,4 BHK,Soiewre,3517.0,4.0,1.0,80.38
+Plot Area,New Launch,Uttarahalli,1 BHK,Soiewre,1725.0,2.0,1.0,54.46
+Plot Area,Immediate Possession,JP Nagar,4 BHK,Soiewre,734.0,5.0,0.0,143.77
+Built-up Area,19-Dec,JP Nagar,2 BHK,Coomee,2599.0,2.0,2.0,194.86
+Built-up Area,19-Dec,Electronic City Phase II,2 BHK,Coomee,1450.0,3.0,2.0,50.89
+Plot Area,Ready To Move,JP Nagar,2 BHK,nan,3868.0,5.0,0.0,123.37
+Plot Area,Ready To Move,Chikka Tirupathi,3 BHK,nan,1286.0,5.0,0.0,185.18
+Super built-up Area,New Launch,JP Nagar,2 BHK,LotusPark,2240.0,2.0,1.0,21.44
+Plot Area,Immediate Possession,JP Nagar,1 BHK,LotusPark,3531.0,3.0,1.0,79.25
+Plot Area,Immediate Possession,Marathahalli,4 BHK,Coomee,3499.0,4.0,0.0,148.78
+Super built-up Area,New Launch,Electronic City Phase II,1 BHK,LotusPark,2289.0,4.0,2.0,115.84
+Plot Area,19-Dec,KR Puram,1 BHK,GreenVille,1586.0,5.0,1.0,68.09
+Built-up Area,New Launch,JP Nagar,2 BHK,GreenVille,517.0,3.0,2.0,89.91
+Super built-up Area,Ready To Move,Kothanur,3 BHK,LotusPark,2682.0,1.0,0.0,162.38
+Plot Area,19-Dec,Whitefield,3 BHK,GreenVille,2926.0,1.0,0.0,83.34
+Super built-up Area,Ready To Move,KR Puram,2 BHK,Coomee,507.0,1.0,1.0,197.43
+Plot Area,New Launch,Chikka Tirupathi,2 BHK,LotusPark,2444.0,3.0,1.0,35.89
+Built-up Area,Immediate Possession,Kothanur,1 BHK,GreenVille,2760.0,1.0,1.0,167.76
+Super built-up Area,Immediate Possession,Lingadheeranahalli,3 BHK,LotusPark,1785.0,2.0,0.0,96.07
+Built-up Area,Immediate Possession,Uttarahalli,3 BHK,GreenVille,1213.0,5.0,2.0,144.81
+Plot Area,New Launch,Uttarahalli,4 BHK,Theanmp,3798.0,1.0,1.0,112.3
+Super built-up Area,19-Dec,Whitefield,3 BHK,nan,2636.0,4.0,2.0,38.26
+Plot Area,Immediate Possession,Lingadheeranahalli,2 BHK,Soiewre,3633.0,2.0,2.0,58.72
+Super built-up Area,Ready To Move,Uttarahalli,1 BHK,Soiewre,3385.0,2.0,2.0,182.13
+Plot Area,New Launch,Marathahalli,3 BHK,Coomee,1622.0,2.0,0.0,124.43
+Built-up Area,Immediate Possession,Electronic City Phase II,4 BHK,nan,3701.0,3.0,1.0,41.12
+Plot Area,New Launch,Uttarahalli,2 BHK,Coomee,1061.0,5.0,2.0,159.69
+Built-up Area,New Launch,Hebbal,3 BHK,Theanmp,2094.0,4.0,0.0,140.72
+Super built-up Area,Ready To Move,Lingadheeranahalli,4 BHK,Coomee,2682.0,2.0,0.0,154.73
+Built-up Area,19-Dec,Hebbal,2 BHK,Coomee,3928.0,3.0,1.0,115.14
+Built-up Area,Ready To Move,Hebbal,3 BHK,Theanmp,2474.0,5.0,1.0,178.99
+Plot Area,New Launch,Chikka Tirupathi,2 BHK,nan,1725.0,4.0,0.0,74.4
+Built-up Area,New Launch,Electronic City Phase II,1 BHK,Theanmp,1703.0,3.0,1.0,98.53
+Built-up Area,Immediate Possession,Lingadheeranahalli,2 BHK,Soiewre,1417.0,1.0,1.0,63.72
+Built-up Area,Immediate Possession,JP Nagar,1 BHK,LotusPark,756.0,1.0,0.0,82.28
+Plot Area,Immediate Possession,KR Puram,3 BHK,Soiewre,761.0,2.0,2.0,64.74
+Built-up Area,Ready To Move,Whitefield,3 BHK,Coomee,1332.0,4.0,1.0,25.39
+Super built-up Area,19-Dec,JP Nagar,4 BHK,Soiewre,3392.0,1.0,0.0,198.89
+Plot Area,19-Dec,Marathahalli,4 BHK,GreenVille,3942.0,1.0,0.0,83.29
+Super built-up Area,Immediate Possession,JP Nagar,4 BHK,Coomee,3702.0,2.0,0.0,123.22
+Built-up Area,Ready To Move,Lingadheeranahalli,4 BHK,LotusPark,2353.0,1.0,2.0,55.18
+Built-up Area,Ready To Move,Hebbal,1 BHK,Soiewre,911.0,4.0,1.0,111.93
+Plot Area,19-Dec,Lingadheeranahalli,2 BHK,Soiewre,2476.0,5.0,0.0,160.45
+Built-up Area,Immediate Possession,Lingadheeranahalli,3 BHK,nan,2464.0,4.0,2.0,173.05
+Built-up Area,19-Dec,Kothanur,1 BHK,LotusPark,3397.0,2.0,1.0,24.05
+Super built-up Area,Immediate Possession,JP Nagar,4 BHK,nan,3969.0,3.0,1.0,56.07
+Plot Area,Immediate Possession,Marathahalli,4 BHK,Theanmp,2999.0,2.0,0.0,90.11
+Built-up Area,New Launch,Lingadheeranahalli,1 BHK,Theanmp,1038.0,5.0,2.0,120.15
+Plot Area,Ready To Move,Marathahalli,2 BHK,Coomee,1591.0,2.0,0.0,126.97
+Plot Area,Ready To Move,KR Puram,3 BHK,Coomee,3478.0,4.0,0.0,193.15
+Built-up Area,Ready To Move,Lingadheeranahalli,4 BHK,nan,3540.0,4.0,2.0,198.56
+Plot Area,Ready To Move,Uttarahalli,2 BHK,GreenVille,3054.0,3.0,0.0,132.75
+Plot Area,Ready To Move,KR Puram,3 BHK,LotusPark,3890.0,1.0,2.0,141.04
+Super built-up Area,Ready To Move,Uttarahalli,3 BHK,LotusPark,1031.0,4.0,2.0,123.66
+Super built-up Area,New Launch,Whitefield,4 BHK,LotusPark,3847.0,2.0,0.0,38.07
+Plot Area,19-Dec,Whitefield,1 BHK,LotusPark,1649.0,3.0,0.0,117.92
+Built-up Area,Ready To Move,Lingadheeranahalli,2 BHK,GreenVille,2719.0,5.0,0.0,60.85
+Plot Area,19-Dec,Whitefield,4 BHK,nan,964.0,1.0,1.0,167.38
+Built-up Area,Immediate Possession,Chikka Tirupathi,3 BHK,GreenVille,864.0,3.0,0.0,184.51
+Built-up Area,Immediate Possession,KR Puram,2 BHK,Coomee,3420.0,1.0,0.0,102.65
+Built-up Area,Ready To Move,Chikka Tirupathi,3 BHK,Coomee,3279.0,2.0,1.0,110.84
+Plot Area,Immediate Possession,Electronic City Phase II,4 BHK,Theanmp,765.0,3.0,2.0,198.61
+Built-up Area,Immediate Possession,Kothanur,4 BHK,Coomee,2851.0,3.0,0.0,118.46
+Built-up Area,19-Dec,Hebbal,2 BHK,Theanmp,1209.0,2.0,2.0,111.63
+Super built-up Area,19-Dec,Electronic City Phase II,3 BHK,nan,1242.0,1.0,2.0,141.32
+Super built-up Area,19-Dec,Chikka Tirupathi,4 BHK,Coomee,3262.0,3.0,1.0,93.33
+Plot Area,New Launch,Electronic City Phase II,4 BHK,nan,3410.0,1.0,2.0,33.44
+Built-up Area,New Launch,Kothanur,1 BHK,nan,1231.0,4.0,0.0,86.26
+Super built-up Area,New Launch,KR Puram,2 BHK,Theanmp,1038.0,5.0,2.0,119.43
+Plot Area,Immediate Possession,JP Nagar,3 BHK,LotusPark,2981.0,3.0,0.0,194.77
+Super built-up Area,19-Dec,Uttarahalli,4 BHK,nan,2034.0,2.0,1.0,73.4
+Plot Area,Ready To Move,Whitefield,3 BHK,Coomee,3591.0,3.0,0.0,57.42
+Super built-up Area,Ready To Move,Lingadheeranahalli,3 BHK,Soiewre,3435.0,2.0,1.0,199.19
+Built-up Area,19-Dec,Lingadheeranahalli,4 BHK,nan,3039.0,3.0,2.0,111.22
+Built-up Area,New Launch,KR Puram,4 BHK,GreenVille,1032.0,1.0,0.0,142.26
+Plot Area,Ready To Move,Electronic City Phase II,4 BHK,Soiewre,2960.0,2.0,1.0,69.05
+Built-up Area,19-Dec,Marathahalli,1 BHK,LotusPark,3828.0,2.0,0.0,53.71
+Built-up Area,Immediate Possession,Uttarahalli,1 BHK,nan,2582.0,4.0,1.0,169.6
+Super built-up Area,19-Dec,Electronic City Phase II,2 BHK,Theanmp,1400.0,4.0,1.0,31.85
+Plot Area,Ready To Move,Whitefield,1 BHK,Soiewre,3679.0,3.0,1.0,82.91
+Plot Area,19-Dec,JP Nagar,2 BHK,LotusPark,1136.0,3.0,2.0,104.08
+Built-up Area,Ready To Move,Hebbal,2 BHK,GreenVille,3176.0,4.0,2.0,192.28
+Plot Area,Immediate Possession,Marathahalli,3 BHK,Soiewre,876.0,2.0,2.0,147.79
+Plot Area,Ready To Move,Kothanur,3 BHK,LotusPark,3179.0,3.0,2.0,153.61
+Built-up Area,Immediate Possession,Uttarahalli,1 BHK,nan,2107.0,5.0,1.0,115.2
+Plot Area,Ready To Move,Lingadheeranahalli,3 BHK,LotusPark,2099.0,5.0,2.0,60.93
+Super built-up Area,Immediate Possession,Marathahalli,4 BHK,nan,2236.0,1.0,1.0,127.67
+Plot Area,Immediate Possession,Chikka Tirupathi,4 BHK,LotusPark,1358.0,4.0,1.0,75.41
+Plot Area,19-Dec,Electronic City Phase II,3 BHK,Coomee,3471.0,4.0,0.0,52.52
+Super built-up Area,19-Dec,Hebbal,2 BHK,LotusPark,1385.0,5.0,0.0,142.54
