@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>House Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1>🏡 House Price Predictor</h1>
+
+        <form method="POST" class="form-card">
+
+            <div class="row">
+                <div class="input-group">
+                    <label>Area Type</label>
+                    <select name="area_type">
+                        {% for v in options[0] %}
+                        <option value="{{ v }}">{{ v }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>Availability</label>
+                    <select name="availability">
+                        {% for v in options[1] %}
+                        <option value="{{ v }}">{{ v }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="input-group">
+                    <label>Location</label>
+                    <select name="location">
+                        {% for v in options[2] %}
+                        <option value="{{ v }}">{{ v }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>Size (BHK)</label>
+                    <select name="size">
+                        {% for v in options[3] %}
+                        <option value="{{ v }}">{{ v }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="input-group">
+                    <label>Society</label>
+                    <select name="society">
+                        {% for v in options[4] %}
+                        <option value="{{ v }}">{{ v }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>Total Sqft</label>
+                    <input type="number" name="total_sqft" required>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="input-group">
+                    <label>Bath</label>
+                    <input type="number" name="bath" required>
+                </div>
+
+                <div class="input-group">
+                    <label>Balcony</label>
+                    <input type="number" name="balcony" required>
+                </div>
+            </div>
+
+            <button class="btn" type="submit">Predict Price</button>
+        </form>
+
+        {% if prediction is not none %}
+        <div class="result-card">
+            <h2>Predicted Price</h2>
+            <p>₹ <span>{{ prediction }}</span> Lakhs</p>
+        </div>
+        {% endif %}
+
+    </div>
+
+    <!-- Chatbox Widget -->
+    <div class="chatbox-container" id="chatboxContainer">
+        <div class="chatbox-header" id="chatboxHeader">
+            <div class="chatbox-title">
+                <span>💬 AI Assistant</span>
+            </div>
+            <button class="chatbox-toggle" id="chatboxToggle">−</button>
+        </div>
+        <div class="chatbox-body" id="chatboxBody">
+            <div class="chatbox-messages" id="chatboxMessages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        Hello! I'm your AI assistant. I can help you with questions about house prices, real estate, or anything else. How can I assist you today?
+                    </div>
+                </div>
+            </div>
+            <div class="chatbox-input-container">
+                <input type="text" id="chatboxInput" class="chatbox-input" placeholder="Type your message..." />
+                <button class="chatbox-send-btn" id="chatboxSendBtn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chatbox Toggle Button (when minimized) -->
+    <button class="chatbox-float-btn" id="chatboxFloatBtn">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+    </button>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
